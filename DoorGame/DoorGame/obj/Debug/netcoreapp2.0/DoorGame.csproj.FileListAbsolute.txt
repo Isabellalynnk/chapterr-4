@@ -1,0 +1,4 @@
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-4\DoorGame\DoorGame\obj\Debug\netcoreapp2.0\DoorGame.csprojAssemblyReference.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-4\DoorGame\DoorGame\obj\Debug\netcoreapp2.0\DoorGame.csproj.CoreCompileInputs.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-4\DoorGame\DoorGame\obj\Debug\netcoreapp2.0\DoorGame.AssemblyInfoInputs.cache
+C:\Users\ik313017\Desktop\C-sharp-projects\chapter-4\DoorGame\DoorGame\obj\Debug\netcoreapp2.0\DoorGame.AssemblyInfo.cs
